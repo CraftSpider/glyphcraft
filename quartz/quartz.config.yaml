@@ -7,10 +7,10 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: craftspider.github.io/glyphcraft
+  baseUrl: "craftspider.github.io/glyphcraft"
   ignorePatterns:
     - private
-    - z_Templates
+    - templates
     - .obsidian
   theme:
     fontOrigin: googleFonts
