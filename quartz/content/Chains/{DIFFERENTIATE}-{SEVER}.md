@@ -11,6 +11,7 @@ Invalid glyph chain considered by Ezzen while planning how to clean an injury. W
 ## Glyphs
 
 [[{DIFFERENTIATE}]] - Selects things, would try to locate target item
+
 [[{SEVER}]] - Would try to cut target item on plain. However, due to the rough geometry, would attempt to cut infinitely more precisely, never completing.
 
 ## Citations
