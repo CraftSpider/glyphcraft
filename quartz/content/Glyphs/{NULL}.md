@@ -3,7 +3,7 @@
 > | | |
 > | ------ | ------ |
 > | Order | 1st[^1.8] |
-> | Ripple | [red/orange/etc] |
+> | Ripple | [[Red]]/??? |
 
 ## Usage
 
