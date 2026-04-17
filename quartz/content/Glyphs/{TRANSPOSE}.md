@@ -11,7 +11,7 @@ Can convert ripple of one color to another. Also used by Sugawara on death as pa
 
 ### Relevant Chains
 
-[[{ICE}-{TRANSPOSE}|[{MANIFEST}-]{ICE}-{TRANSPOSE}]]
+[[{MANIFEST}-]{ICE}-{TRANSPOSE}]({ICE}-{TRANSPOSE})
 
 ## Appearances
 

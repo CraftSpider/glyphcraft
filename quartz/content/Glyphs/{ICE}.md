@@ -11,7 +11,7 @@ Unknown usage. Related to ripple management of Amethyst's mantle.
 
 ### Relevant Chains
 
-[[{ICE}-{TRANSPOSE}|[{MANIFEST}-]{ICE}-{TRANSPOSE}]]
+[[{MANIFEST}-]{ICE}-{TRANSPOSE}]({ICE}-{TRANSPOSE})
 
 ## Appearances
 
