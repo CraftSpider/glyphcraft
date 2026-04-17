@@ -7,7 +7,7 @@
 
 ## Usage
 
-Describe how the glyph is used, and what effects it has
+Unknown usage.
 
 ### Relevant Chains
 

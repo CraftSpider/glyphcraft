@@ -13,3 +13,5 @@ Creates a magical gysroscope cheaply, via multiplexing the four spatial cardinal
 [[{ALIGN}]] - Presumably tells direction, aligns along axis.
 
 [[{DIFFERENTIATE}]] - Selects things, locates changes in orientation most likely.
+
+## Citations

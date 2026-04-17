@@ -18,5 +18,3 @@ Unknown usage. Related to ripple management of Amethyst's mantle.
 TODO: Chapters the glyph is referenced in
 
 ## Citations
-
-What chapters information is from.

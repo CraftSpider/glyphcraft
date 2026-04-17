@@ -15,3 +15,5 @@ Related to ripple management of Amethyst's mantle.
 [[{ICE}]] - Unknown purpose
 
 [[{TRANSPOSE}]] - Given known usage in ripple alteration, likely converts undesired ripple into a more easily disposed form.
+
+## Citations

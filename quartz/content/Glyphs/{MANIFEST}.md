@@ -20,5 +20,3 @@ Makes material, known as LM or Lattice Manifest. Ezzen's name very loosely refle
 TODO: Chapters the glyph is referenced in
 
 ## Citations
-
-What chapters information is from.

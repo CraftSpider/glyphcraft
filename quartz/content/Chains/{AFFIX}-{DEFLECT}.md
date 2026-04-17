@@ -13,3 +13,5 @@ Analgesoid used in Ezzen's foot.
 [[{AFFIX}]] - Most likely a more metaphysical connection here - connects to nerve info or such.
 
 [[{DEFLECT}]] - Presumably used to shield the wearer from pain abstractly.
+
+## Citations

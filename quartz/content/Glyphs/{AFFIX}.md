@@ -20,5 +20,3 @@ A common glyph used to bind things together. Confusable with [[{DIFFUSE}]].
 TODO: Chapters the glyph is referenced in
 
 ## Citations
-
-What chapters information is from.

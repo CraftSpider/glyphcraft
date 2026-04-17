@@ -18,5 +18,3 @@ Used in more targeted pain numbing as well as physical shielding.
 TODO: Chapters the glyph is referenced in
 
 ## Citations
-
-What chapters information is from.
