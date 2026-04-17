@@ -11,7 +11,7 @@ Makes material, known as LM or Lattice Manifest. Ezzen's name very loosely refle
 
 ### Relevant Chains
 
-[[{ICE}-{TRANSPOSE}|[{MANIFEST}-]{ICE}-{TRANSPOSE}]]
+[[{MANIFEST}-]{ICE}-{TRANSPOSE}]({ICE}-{TRANSPOSE})
 
 [[{MANIFEST}-{TRANSMIT}]]
 
