@@ -13,9 +13,11 @@ Can negate sensory information such as pain, and likely other things in the cont
 
 [[{NULL}-{GRASP}]]
 
+[[{NULL}-{SEVER}]]
+
 ## Appearances
 
-Chapters the glyph is referenced in
+TODO: Chapters the glyph is referenced in
 
 ## Citations
 

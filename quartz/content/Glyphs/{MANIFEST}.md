@@ -11,11 +11,13 @@ Makes material, known as LM or Lattice Manifest. Ezzen's name very loosely refle
 
 ### Relevant Chains
 
-Chains the glyph has appeared in
+[[{ICE}-{TRANSPOSE}|[{MANIFEST}-]{ICE}-{TRANSPOSE}]]
+
+[[{MANIFEST}-{TRANSMIT}]]
 
 ## Appearances
 
-Chapters the glyph is referenced in
+TODO: Chapters the glyph is referenced in
 
 ## Citations
 

@@ -11,11 +11,11 @@ Seemingly relates to color or light. Used in marker color selection.
 
 ### Relevant Chains
 
-Chains the glyph has appeared in
+[[{DIFFERENTIATE}-{REFRACT}]]
 
 ## Appearances
 
-Chapters the glyph is referenced in
+TODO: Chapters the glyph is referenced in
 
 ## Citations
 

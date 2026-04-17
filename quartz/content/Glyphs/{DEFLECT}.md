@@ -11,11 +11,11 @@ Used in more targeted pain numbing as well as physical shielding.
 
 ### Relevant Chains
 
-Chains the glyph has appeared in
+[[{AFFIX}-{DEFLECT}]]
 
 ## Appearances
 
-Chapters the glyph is referenced in
+TODO: Chapters the glyph is referenced in
 
 ## Citations
 

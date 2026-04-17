@@ -7,15 +7,15 @@
 
 ## Usage
 
-Describe how the glyph is used, and what effects it has
+Unknown usage. Related to ripple management of Amethyst's mantle.
 
 ### Relevant Chains
 
-Chains the glyph has appeared in
+[[{ICE}-{TRANSPOSE}|[{MANIFEST}-]{ICE}-{TRANSPOSE}]]
 
 ## Appearances
 
-Chapters the glyph is referenced in
+TODO: Chapters the glyph is referenced in
 
 ## Citations
 

@@ -11,11 +11,11 @@ Removes things, such as blood or other target, from another thing. Ai's solution
 
 ### Relevant Chains
 
-Chains the glyph has appeared in
+[[{DIFFERENTIATE}-{EXTRACT}]]
 
 ## Appearances
 
-Chapters the glyph is referenced in
+TODO: Chapters the glyph is referenced in
 
 ## Citations
 

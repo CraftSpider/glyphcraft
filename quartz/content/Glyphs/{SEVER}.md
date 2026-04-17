@@ -11,11 +11,13 @@ Cuts things in planes. Vulnerable to a Zeno's Paradox type problem if used in so
 
 ### Relevant Chains
 
-Chains the glyph has appeared in
+[[{DIFFERENTIATE}-{SEVER}]]
+
+[[{NULL}-{SEVER}]]
 
 ## Appearances
 
-Chapters the glyph is referenced in
+TODO: Chapters the glyph is referenced in
 
 ## Citations
 

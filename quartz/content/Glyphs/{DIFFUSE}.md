@@ -11,11 +11,11 @@ Unknown usage. Confusable for [[{AFFIX}]]
 
 ### Relevant Chains
 
-Chains the glyph has appeared in
+No known chains.
 
 ## Appearances
 
-Chapters the glyph is referenced in
+TODO: Chapters the glyph is referenced in
 
 ## Citations
 

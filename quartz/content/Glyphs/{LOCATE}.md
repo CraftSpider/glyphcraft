@@ -11,11 +11,11 @@ Can be used to calculate location relative to a known reference point. This refe
 
 ### Relevant Chains
 
-Chains the glyph has appeared in
+No known chains.
 
 ## Appearances
 
-Chapters the glyph is referenced in
+TODO: Chapters the glyph is referenced in
 
 ## Citations
 

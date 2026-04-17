@@ -7,15 +7,15 @@
 
 ## Usage
 
-Used as part of the long-range artillery chain with Amethyst's mantle[^2.13].
+Used as part of the long-range artillery chain with Amethyst's mantle, as well as in Takagiri's illusory transmission[^2.13].
 
 ### Relevant Chains
 
-Chains the glyph has appeared in
+[[{MANIFEST}-{TRANSMIT}]]
 
 ## Appearances
 
-Chapters the glyph is referenced in
+TODO: Chapters the glyph is referenced in
 
 ## Citations
 

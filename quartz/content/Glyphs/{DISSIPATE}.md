@@ -7,16 +7,16 @@
 
 ## Usage
 
-Used in kinetic dampening.
+Used in kinetic dampening[^2.7].
 
 ### Relevant Chains
 
-Chains the glyph has appeared in
+[[{AFFIX}-{DISSIPATE}]]
 
 ## Appearances
 
-Chapters the glyph is referenced in
+TODO: Chapters the glyph is referenced in
 
 ## Citations
 
-What chapters information is from.
+[^2.7]: https://sunspot.gay/chapter/trick-of-the-light-2-07/

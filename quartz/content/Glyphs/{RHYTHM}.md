@@ -7,15 +7,15 @@
 
 ## Usage
 
-Describe how the glyph is used, and what effects it has
+Unknown usage. Presumably can act as a clock or timekeeper<sup>[conjecture]</sup>
 
 ### Relevant Chains
 
-Chains the glyph has appeared in
+No known chains.
 
 ## Appearances
 
-Chapters the glyph is referenced in
+TODO: Chapters the glyph is referenced in
 
 ## Citations
 

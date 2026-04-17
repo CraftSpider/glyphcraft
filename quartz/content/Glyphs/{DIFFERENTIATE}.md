@@ -11,11 +11,19 @@ Used to filter or tell things apart. Generally part of a chain. Used in manufact
 
 ### Relevant Chains
 
-Chains the glyph has appeared in
+[[{ALIGN}-{DIFFERENTIATE}]]
+
+[[{DIFFERENTIATE}-{EXTRACT}]]
+
+[[{DIFFERENTIATE}-{OFFSET}]]
+
+[[{DIFFERENTIATE}-{REFRACT}]]
+
+[[{DIFFERENTIATE}-{SEVER}]]
 
 ## Appearances
 
-Chapters the glyph is referenced in
+TODO: Chapters the glyph is referenced in
 
 ## Citations
 

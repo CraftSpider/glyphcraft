@@ -4,7 +4,7 @@ Not all Glyphs can be chained to all other glyphs. As an example, [[{DIFFERENTIA
 
 ## Ripple
 
-Ripple is created by both magic and strong flamebearer emotion (possibly also normal human emotion). It appears to behave similarly to a fluid. In a free, uncontrolled form it can be deletrious to human health. It is divided into colors, which are classifications of ripple types that have affinity for certain affects. The colors of ripple can affect the behavior of Glyphs that use it. Glyphs control and limit ripple, using it as part of function, but only the Vaetna can use Glyphs with zero 'waste' ripple. Uncontrolled ripple is called Free Ripple, and can have deletrious effects on the human body in sufficient quantities, in ways likened to radiation.
+Ripple is created by both magic and strong flamebearer emotion (possibly also normal human emotion). It appears to behave similarly to a fluid. It is divided into colors, which are classifications of ripple types that have affinity for certain affects. The colors of ripple can affect the behavior of Glyphs that use it. Glyphs control and limit ripple, using it as part of function, but only the Vaetna can use Glyphs with zero 'waste' ripple. Uncontrolled ripple is called Free Ripple, and can have deletrious effects on the human body in sufficient quantities, in ways likened to radiation.
 
 There are five kinds of ripple that can be used by glyphs: [[Red]], [[Orange]], [[Green]], [[Blue]], and [[Pink]].
 

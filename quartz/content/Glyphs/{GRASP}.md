@@ -7,7 +7,7 @@
 
 ## Usage
 
-Describe how the glyph is used, and what effects it has
+Unkown usage. Part of Sahan's rainstep.
 
 ### Relevant Chains
 
@@ -15,7 +15,7 @@ Describe how the glyph is used, and what effects it has
 
 ## Appearances
 
-Chapters the glyph is referenced in
+TODO: Chapters the glyph is referenced in
 
 ## Citations
 

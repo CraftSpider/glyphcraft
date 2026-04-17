@@ -11,11 +11,11 @@ Correlates things physically and/or abstractly, often used in spatial compressio
 
 ### Relevant Chains
 
-Chains the glyph has appeared in
+No known chains.
 
 ## Appearances
 
-Chapters the glyph is referenced in
+TODO: Chapters the glyph is referenced in
 
 ## Citations
 

@@ -11,11 +11,11 @@ Can feed knowledge from the area around the lattice to the user[^3.12].
 
 ### Relevant Chains
 
-Chains the glyph has appeared in
+No known chains.
 
 ## Appearances
 
-Chapters the glyph is referenced in
+TODO: Chapters the glyph is referenced in
 
 ## Citations
 

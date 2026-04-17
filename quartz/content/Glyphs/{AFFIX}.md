@@ -11,11 +11,13 @@ A common glyph used to bind things together. Confusable with [[{DIFFUSE}]].
 
 ### Relevant Chains
 
-Chains the glyph has appeared in
+[[{AFFIX}-{DEFLECT}]]
+
+[[{AFFIX}-{DISSIPATE}]]
 
 ## Appearances
 
-Chapters the glyph is referenced in
+TODO: Chapters the glyph is referenced in
 
 ## Citations
 

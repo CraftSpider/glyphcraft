@@ -11,11 +11,11 @@ Part of Ezzen's original solution to Ai's puzzle about removing pus. More 'spati
 
 ### Relevant Chains
 
-Chains the glyph has appeared in
+[[{DIFFERENTIATE}-{OFFSET}]]
 
 ## Appearances
 
-Chapters the glyph is referenced in
+TODO: Chapters the glyph is referenced in
 
 ## Citations
 

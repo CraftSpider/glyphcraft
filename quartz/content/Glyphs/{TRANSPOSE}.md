@@ -11,11 +11,11 @@ Can convert ripple of one color to another. Also used by Sugawara on death as pa
 
 ### Relevant Chains
 
-Chains the glyph has appeared in
+[[{ICE}-{TRANSPOSE}|[{MANIFEST}-]{ICE}-{TRANSPOSE}]]
 
 ## Appearances
 
-Chapters the glyph is referenced in
+TODO: Chapters the glyph is referenced in
 
 ## Citations
 
