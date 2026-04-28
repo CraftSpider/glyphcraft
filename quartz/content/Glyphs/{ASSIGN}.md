@@ -19,11 +19,11 @@ Unclear, possibly some form of storage in flame. Used in magical translation by 
 
 | Chapter | Context |
 |---------|---------|
-| [2.3] | “That,” I sighed, simultaneously put-upon and excited at being given a chance to strut my stuff, “would be the third, sixth, and seventh layers of {PROPAGATE}, sliced maybe twenty-five percent ana to give it a more orange propensity so it can link into things like {ASSIGN} more easily.” |
-| [3.9] | It’s more like it’s getting your Flame to do the translation…I think that’s what the {ASSIGN} and {IDENTIFY} are trying to do, anyway, they kind of go through and in and crisscross to re-squish the concepts…ugh |
+| [2.3] | “That,” I sighed, simultaneously put-upon and excited at being given a chance to strut my stuff, “would be the third, sixth, and seventh layers of [[{PROPAGATE}]], sliced maybe twenty-five percent ana to give it a more orange propensity so it can link into things like {ASSIGN} more easily.” |
+| [3.9] | It’s more like it’s getting your Flame to do the translation…I think that’s what the {ASSIGN} and [[{IDENTIFY}]] are trying to do, anyway, they kind of go through and in and crisscross to re-squish the concepts…ugh |
 | [4.4] | Shouldn’t I be learning a version of this that incorporates an {ASSIGN} or some other basic targeting? |
-| [4.7] | And I know how {IDENTIFY} and {ASSIGN} and the other pink categorization stuff tends to work |
-| [4.13] | “Fuckin’…what is this, {IDENTIFY}-{ASSIGN}-something else, repeated like a hundred times with multiplexers on this strand alone? |
+| [4.7] | And I know how [[{IDENTIFY}]] and {ASSIGN} and the other pink categorization stuff tends to work |
+| [4.13] | “Fuckin’…what is this, [[{IDENTIFY}-{ASSIGN}]]-something else, repeated like a hundred times with multiplexers on this strand alone? |
 
   </div>
 </details>

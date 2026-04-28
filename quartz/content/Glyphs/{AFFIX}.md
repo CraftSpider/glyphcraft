@@ -7,7 +7,7 @@
 
 ## Usage
 
-A common glyph used to bind things together. Confusable with [[{DIFFUSE}]].
+A common glyph used to bind things together. Confusable with [[{DIFFUSE}]][^2.3].
 
 ### Relevant Chains
 
@@ -59,3 +59,5 @@ A common glyph used to bind things together. Confusable with [[{DIFFUSE}]].
 [3.5]: https://sunspot.gay/chapter/threading-the-needle-3-05/
 [3.9]: https://sunspot.gay/chapter/threading-the-needle-3-09/
 [4.12]: https://sunspot.gay/chapter/the-cutting-edge-4-12/
+
+[^2.3]: https://sunspot.gay/chapter/trick-of-the-light-2-03/ I chuckled as one of them mistook {AFFIX} for [[{DIFFUSE}]]. Rookie mistake
