@@ -26,14 +26,19 @@ summary {
   }
 
   &:has(h1)::marker {
-    font-size: 34px;
-  }
-
-  &:has(h2)::marker {
     font-size: 30px;
   }
 
-  &:has(h3)::marker {
+  &:has(h2)::marker {
     font-size: 26px;
   }
+
+  &:has(h3)::marker {
+    font-size: 22px;
+  }
+}
+
+.max-width > div > table {
+  max-width: calc(100% - 2rem) !important;
+  width: calc(100% - 2rem) !important;
 }
