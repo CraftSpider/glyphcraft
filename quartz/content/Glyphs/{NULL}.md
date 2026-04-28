@@ -19,6 +19,4 @@ Can negate sensory information such as pain, and likely other things in the cont
 
 TODO: Chapters the glyph is referenced in
 
-## Citations
-
 [^1.8]: https://sunspot.gay/chapter/from-on-high-1-08/

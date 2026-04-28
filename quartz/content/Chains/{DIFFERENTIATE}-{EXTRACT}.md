@@ -13,5 +13,3 @@ Cleans a wound by selecting undesired matter and removing it. Similar to [[{DIFF
 [[{DIFFERENTIATE}]] - Selects material to remove
 
 [[{EXTRACT}]] - Moves the material out
-
-## Citations

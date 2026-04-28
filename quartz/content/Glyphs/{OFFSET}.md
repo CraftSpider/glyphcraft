@@ -16,5 +16,3 @@ Part of Ezzen's original solution to Ai's puzzle about removing pus. More 'spati
 ## Appearances
 
 TODO: Chapters the glyph is referenced in
-
-## Citations

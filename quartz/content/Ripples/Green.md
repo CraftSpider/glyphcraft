@@ -9,5 +9,3 @@ One of the least understood of the five 'standard' ripples. Related to biomancy,
 ## Free Ripple
 
 TODO
-
-## Citations

@@ -18,5 +18,3 @@ Cuts things in planes. Vulnerable to a Zeno's Paradox type problem if used in so
 ## Appearances
 
 TODO: Chapters the glyph is referenced in
-
-## Citations

@@ -14,6 +14,4 @@ Kinetic dampening which is part of Ai's tattoo, applied inward to prevent her sh
 
 [[{DISSIPATE}]] - Presumably converts the kinetic force into some harmless alternative energy or ripple.
 
-## Citations
-
 [^2.7]: https://sunspot.gay/chapter/trick-of-the-light-2-07/

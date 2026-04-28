@@ -16,5 +16,3 @@ Removes things, such as blood or other target, from another thing. Ai's solution
 ## Appearances
 
 TODO: Chapters the glyph is referenced in
-
-## Citations

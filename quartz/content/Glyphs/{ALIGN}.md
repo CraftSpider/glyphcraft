@@ -17,6 +17,4 @@ Presumably aligns things along desired axis. 4 together can be used with [[{DIFF
 
 TODO: Chapters the glyph is referenced in
 
-## Citations
-
 [^3.2]: https://sunspot.gay/chapter/threading-the-needle-3-02/

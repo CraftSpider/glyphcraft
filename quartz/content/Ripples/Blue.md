@@ -9,5 +9,3 @@ Used for motion, flight, and other physical-force activities.
 ## Free Ripple
 
 TODO
-
-## Citations

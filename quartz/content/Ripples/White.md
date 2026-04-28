@@ -11,5 +11,3 @@ One of the glyphless ripples.
 ## Free Ripple
 
 TODO
-
-## Citations

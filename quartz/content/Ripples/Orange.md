@@ -9,5 +9,3 @@ Used for Pocketspace and Fourspace, as well as ‘control flow’ or the order o
 ## Free Ripple
 
 TODO
-
-## Citations

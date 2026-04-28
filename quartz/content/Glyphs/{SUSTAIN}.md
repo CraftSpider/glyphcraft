@@ -17,6 +17,4 @@ No known chains.
 
 TODO: Chapters the glyph is referenced in
 
-## Citations
-
 [^1.2]: https://sunspot.gay/chapter/from-on-high-1-02/ "a few I recognized as second- or third-order"

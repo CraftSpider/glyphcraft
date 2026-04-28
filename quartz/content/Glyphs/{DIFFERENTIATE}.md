@@ -25,6 +25,4 @@ Used to filter or tell things apart. Generally part of a chain. Used in manufact
 
 TODO: Chapters the glyph is referenced in
 
-## Citations
-
 [^2.8]: https://sunspot.gay/chapter/trick-of-the-light-2-08/

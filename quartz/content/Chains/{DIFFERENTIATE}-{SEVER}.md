@@ -14,6 +14,4 @@ Invalid glyph chain considered by Ezzen while planning how to clean an injury. W
 
 [[{SEVER}]] - Would try to cut target item on plain. However, due to the rough geometry, would attempt to cut infinitely more precisely, never completing.
 
-## Citations
-
 [^1.4]: https://sunspot.gay/chapter/from-on-high-1-04/

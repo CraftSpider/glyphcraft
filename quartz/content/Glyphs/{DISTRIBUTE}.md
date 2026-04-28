@@ -17,6 +17,4 @@ No known chains
 
 TODO: Chapters the glyph is referenced in
 
-## Citations
-
 [^4.16]: https://sunspot.gay/chapter/the-cutting-edge-4-16/

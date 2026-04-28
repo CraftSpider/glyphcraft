@@ -17,6 +17,4 @@ Used in kinetic dampening[^2.7].
 
 TODO: Chapters the glyph is referenced in
 
-## Citations
-
 [^2.7]: https://sunspot.gay/chapter/trick-of-the-light-2-07/

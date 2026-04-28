@@ -18,5 +18,3 @@ A common glyph used to bind things together. Confusable with [[{DIFFUSE}]].
 ## Appearances
 
 TODO: Chapters the glyph is referenced in
-
-## Citations

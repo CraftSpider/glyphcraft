@@ -4,7 +4,6 @@ Alongside the its purely theoretical glyph diagramming capabilities, it's capabl
 
 Ezzen uses the tool frequently, and imagines using it to guide snapweaving[^4.16]. The aren't particularly familiar with any of its production capabilities, only the more theoretical glyph diagramming functions.
 
-## Citations
 
 [^2.3]: https://sunspot.gay/chapter/trick-of-the-light-2-03/
 [^2.10]: https://sunspot.gay/chapter/trick-of-the-light-2-10/

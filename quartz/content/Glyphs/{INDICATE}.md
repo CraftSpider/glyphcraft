@@ -17,6 +17,4 @@ No known chains.
 
 TODO: Chapters the glyph is referenced in
 
-## Citations
-
 [3.12]: https://sunspot.gay/chapter/threading-the-needle-3-12/ "That’s an {INDICATE} lattice. I can feel what happens here now"

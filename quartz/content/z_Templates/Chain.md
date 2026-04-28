@@ -12,6 +12,4 @@ What the chain does
 
 Glyphs used in the chain and their presumed purpose
 
-## Citations
-
 What chapters information is from.

@@ -13,5 +13,3 @@ Sahan's raindance uses this as part of its function.
 [[{NULL}]] - Unknown purpose
 
 [[{GRASP}]] - Unknown purpose
-
-## Citations

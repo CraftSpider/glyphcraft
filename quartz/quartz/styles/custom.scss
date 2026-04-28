@@ -1,3 +1,39 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+$callout-red: rgb(193, 67, 67);
+
+@mixin headers {
+  h1, h2, h3, h4, h5, h6 {
+    @content;
+  }
+}
+
+blockquote.infobox > .callout-title {
+  display: none;
+}
+
+summary {
+  > {
+    @include headers {
+      display: inline-block;
+    }
+  }
+
+  &:has(h1, h2, h3, h4, h5, h6)::marker {
+    color: $callout-red;
+  }
+
+  &:has(h1)::marker {
+    font-size: 34px;
+  }
+
+  &:has(h2)::marker {
+    font-size: 30px;
+  }
+
+  &:has(h3)::marker {
+    font-size: 26px;
+  }
+}

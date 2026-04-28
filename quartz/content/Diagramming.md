@@ -36,7 +36,5 @@ Sub 2 is a shorthand for a second-order (3D) glyph being offset down the Z-axis 
 
 There exists a form of CAD software specifically for Glyphcraft known as [[GWalk]].
 
-## Citations
-
 [^1.4]: https://sunspot.gay/chapter/from-on-high-1-04/
 [^1.5]: https://sunspot.gay/chapter/from-on-high-1-05/

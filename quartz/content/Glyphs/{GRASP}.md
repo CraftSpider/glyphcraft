@@ -16,5 +16,3 @@ Unkown usage. Part of Sahan's rainstep.
 ## Appearances
 
 TODO: Chapters the glyph is referenced in
-
-## Citations

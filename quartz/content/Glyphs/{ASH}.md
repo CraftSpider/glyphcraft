@@ -17,6 +17,4 @@ No known chains.
 
 TODO: Chapters the glyph is referenced in
 
-## Citations
-
 [^2.13]: https://sunspot.gay/chapter/trick-of-the-light-2-13/ "You know how {ASH} residue is ripple-inert?” “Ripple-_invisible_,” I clarified. “Not exactly going to block anything, is it?”"

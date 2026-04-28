@@ -17,6 +17,4 @@ No known chains.
 
 TODO: Chapters the glyph is referenced in
 
-## Citations
-
 [^2.16]: "I didn’t have even a single persistent lattice of my Flame sitting somewhere in realspace to use as a reference point for that equation."

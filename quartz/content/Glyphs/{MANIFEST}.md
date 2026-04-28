@@ -18,5 +18,3 @@ Makes material, known as LM or Lattice Manifest. Ezzen's name very loosely refle
 ## Appearances
 
 TODO: Chapters the glyph is referenced in
-
-## Citations

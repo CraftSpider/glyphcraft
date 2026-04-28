@@ -16,5 +16,3 @@ No known chains.
 ## Appearances
 
 TODO: Chapters the glyph is referenced in
-
-## Citations
