@@ -23,7 +23,7 @@ A common glyph used to bind things together. Confusable with [[{DIFFUSE}]][^2.3]
 |---------|---------|
 | [1.2] | What had I cast? <br> {AFFIX} |
 | [1.4] | The prosthetic attaches with {AFFIX}, no physical socket or suspension |
-| [1.4] | “What’s the analgesoid?” <br> “{AFFIX}-{DEFLECT} sub 2.” |
+| [1.4] | “What’s the analgesoid?” <br> “[[{AFFIX}-{DEFLECT}]] sub 2.” |
 | [1.7] | It’d probably be [[{NULL}-{COMPOSE}]] with a blue link, maybe an {AFFIX} somewhere in there. |
 | [1.7] | It was just attached with an {AFFIX}, and it would be trivial enough to disengage the glyph—but I’d also lose whatever analgomancy was muting the pain. |
 | [1.7] | It took me a moment to figure out that that wasn’t a physical sensation—it was how my mind was interpreting the {AFFIX} |
