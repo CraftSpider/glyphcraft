@@ -4,7 +4,7 @@ Individual glyphs are spelled like {GLYPH}. To indicate one glyph after another 
 
 To indicate multiple of one glyph all feeding another, one uses `:N` form. As an example, [[{ALIGN}-{DIFFERENTIATE}|{ALIGN}:4-{DIFFERENTIATE}]].
 
-Sub 2 is a shorthand for a second-order (3D) glyph being offset down the Z-axis from its anchor[^1.4]. Super is used for up an axis[^1.5]. The other numbers 1-4 presumably represent the other axis. If the standard order of XYZW is used, you get the following table:
+Sub 2 is a shorthand for a second-order (3D) glyph being offset down the Z-axis from its anchor[^1.4]. Super is used for up an axis[^1.5]. The other numbers 0-3 presumably represent the other axis. If the standard order of XYZW is used, you get the following table:
 
 <table>
     <tr>
@@ -13,26 +13,28 @@ Sub 2 is a shorthand for a second-order (3D) glyph being offset down the Z-axis 
         <th>Sub</th>
     </tr>
     <tr>
-        <th>1</th>
+        <th>0</th>
         <td>+X</td>
         <td>-X</td>
     </tr>
     <tr>
-        <th>2</th>
+        <th>1</th>
         <td>+Y</td>
         <td>-Y</td>
     </tr>
     <tr>
-        <th>3</th>
+        <th>2</th>
         <td>+Z</td>
         <td>-Z</td>
     </tr>
     <tr>
-        <th>4</th>
+        <th>3</th>
         <td>+W</td>
         <td>-W</td>
     </tr>
 </table>
+
+Note that this is conjecture, however. It's possible a different order from XYZW is in standard use, or that the numbers are 1-4.
 
 There exists a form of CAD software specifically for Glyphcraft known as [[GWalk]].
 
