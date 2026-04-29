@@ -1,3 +1,10 @@
+---
+tags:
+  - glyph
+  - needs-citation
+  - needs-appearances
+---
+
 > [!infobox|right wikipedia]
 > # {EXTRACT}
 > | | |

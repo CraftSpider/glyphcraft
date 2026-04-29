@@ -16,4 +16,9 @@ Ripple can be seen via purpose-made tools or sensors, such as Ai's goggles or ri
 
 Along with the arrival of the Flame, came the 4th dimension. It lays alongside normal 3-space, with distance measured in Ana and Kata. Something went wrong in its connection to normal reality[^4.4], so even a small distance away from earth is completely alien and inhospitable. The standard direction for storing things offset into fourspace is ana, though some things (such as Ezzen's spear) are stored kata instead. Some particularly complicated glyphs, 3rd-order ones, make use of the 4th dimension.
 
+## Snapweaving
+
+Snapweaving is a variety of techniques used by Flamebearers to weave Glyphs rapidly during high-pressure situations, such as combat. The only currently confirmed technique is to offload the actual shaping of the Glyph to a bearer's Flame, which can perform the actual weaving, while the bearer needs to have both a sufficiently pure intent (in the sense of force of will, not moral purity) and perfect understanding of the Glyphs being woven[^4.16].
+
 [^4.4]: https://sunspot.gay/chapter/the-cutting-edge-4-04/
+[^4.16]: https://sunspot.gay/chapter/the-cutting-edge-4-16/

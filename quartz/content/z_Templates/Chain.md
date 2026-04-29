@@ -1,3 +1,8 @@
+---
+tags:
+  - chain
+---
+
 > [!infobox|wikipedia right]
 > # {CHAIN}
 > |  |  |

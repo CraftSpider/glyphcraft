@@ -130,6 +130,9 @@ plugins:
     layout:
       position: right
       priority: 10
+    options:
+      localGraph:
+        depth: 2
   - source: github:quartz-community/search
     enabled: true
     layout:
@@ -225,7 +228,7 @@ plugins:
       language: yaml
     order: 5
     layout:
-      position: beforeBody
+      position: afterBody
       priority: 15
       display: all
   - source: github:quartz-community/unlisted-pages

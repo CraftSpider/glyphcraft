@@ -1,3 +1,10 @@
+---
+tags:
+  - chain
+  - needs-appearances
+  - needs-citation
+---
+
 > [!infobox|wikipedia right]
 > # {IDENTIFY}-{DIRECT}
 > |  |  |

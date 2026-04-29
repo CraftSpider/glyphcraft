@@ -1,3 +1,8 @@
+---
+tags:
+  - glyph
+---
+
 > [!infobox|right wikipedia]
 > # {AFFIX}
 > | | |

@@ -1,3 +1,9 @@
+---
+tags:
+  - glyph
+  - needs-appearances
+---
+
 > [!infobox|right wikipedia]
 > # {DIFFUSE}
 > | | |
@@ -7,7 +13,7 @@
 
 ## Usage
 
-Unknown usage. Confusable for [[{AFFIX}]]
+Unknown usage. Confusable for [[{AFFIX}]][^2.3]
 
 ### Relevant Chains
 

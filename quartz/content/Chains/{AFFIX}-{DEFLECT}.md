@@ -1,3 +1,10 @@
+---
+tags:
+  - chain
+  - needs-citation
+  - needs-appearances
+---
+
 > [!infobox|wikipedia right]
 > # {AFFIX}-{DEFLECT} sub 2
 > |  |  |

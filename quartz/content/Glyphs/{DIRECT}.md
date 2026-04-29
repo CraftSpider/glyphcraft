@@ -1,3 +1,9 @@
+---
+tags:
+  - glyph
+  - needs-appearances
+---
+
 > [!infobox|right wikipedia]
 > # {DIRECT}
 > | | |
@@ -7,7 +13,7 @@
 
 ## Usage
 
-Used as part of a chain to put screws in holes
+Used as part of a chain to put screws in holes[^2.4].
 
 ### Relevant Chains
 

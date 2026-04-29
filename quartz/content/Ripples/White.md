@@ -1,3 +1,9 @@
+---
+tags:
+  - ripple
+  - needs-citation
+---
+
 > [!infobox|wikipedia right]
 > # White Ripple
 > |  |  |

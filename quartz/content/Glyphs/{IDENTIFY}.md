@@ -1,3 +1,9 @@
+---
+tags:
+  - glyph
+  - needs-appearances
+---
+
 > [!infobox|right wikipedia]
 > # {IDENTIFY}
 > | | |

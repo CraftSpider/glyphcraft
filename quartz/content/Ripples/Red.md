@@ -1,10 +1,16 @@
+---
+tags:
+  - ripple
+  - needs-citation
+---
+
 > [!infobox|wikipedia right]
 > # Red Ripple
 > |  |  |
 > | ----- | ----- |
 > | Affinity | Sensation | 
 
-The currency of blood magic<sup>[citation needed]</sup>, related to physical sensations such as pain<sup>[citation needed]</sup>.
+The currency of blood magic, related to physical sensations such as pain.
 
 ## Free Ripple
 
