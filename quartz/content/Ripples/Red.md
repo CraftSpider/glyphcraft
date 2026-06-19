@@ -10,7 +10,7 @@ tags:
 > | ----- | ----- |
 > | Affinity | Sensation | 
 
-The currency of blood magic, related to physical sensations such as pain.
+The ripple related to physical sensations such as pain. The primary currency of blood magic.
 
 ## Free Ripple
 

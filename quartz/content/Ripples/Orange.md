@@ -10,7 +10,7 @@ tags:
 > | ----- | ----- |
 > | Affinity | Space/Distance | 
 
-Used for Pocketspace and Fourspace, as well as ‘control flow’ or the order of operations for a weave.
+The ripple associated with space, direction, and distance. Used for Pocketspace and Fourspace, as well as ‘control flow’ or the order of operations for a weave.
 
 ## Free Ripple
 

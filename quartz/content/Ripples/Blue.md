@@ -10,7 +10,7 @@ tags:
 > | ----- | ----- |
 > | Affinity | Kinetics/Entropy | 
 
-Used for motion, flight, and other physical-force activities.
+The ripple of forces, including kinetics, light, and entropy. Used for motion, flight, and other physical-force activities.
 
 ## Free Ripple
 

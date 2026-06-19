@@ -10,7 +10,9 @@ tags:
 > | ----- | ----- |
 > | Affinity | Information | 
 
+The ripple of information and concepts.
 
+Responsible for elongate, when a billionaire got his organs "sorted by mass" live on stage due to ignoring ripple safety guidelines.
 
 ## Free Ripple
 
